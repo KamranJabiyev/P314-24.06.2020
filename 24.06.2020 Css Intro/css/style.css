@@ -1,0 +1,54 @@
+/* p{
+    color: aliceblue !important;
+    background-color: black;
+} */
+
+/* .firstP{
+    color: aliceblue;
+    background-color: black;
+}
+
+.test{
+    border: 2px solid red;
+}
+
+#second{
+    color: chartreuse;
+} */
+
+/* .main .text{
+    color: red;
+} */
+
+/* .main>.text{
+    color: red;
+} */
+
+/* .main~p{
+    color: red;
+} */
+
+/* #next:hover{
+    color: white;
+    background-color: black;
+} */
+
+/* div p:first-child{
+    background-color: black;
+    color: blanchedalmond;
+} */
+
+/* a[target="_blank"]{
+    color: red;
+} */
+
+/* h1{
+    color: rgb(150,234,10);
+} */
+
+div{
+    height: 200px;
+    width: 200px;
+    /* background-color: rgba(150,234,10,0.5); */
+    background-color: #9c27b0;
+}
